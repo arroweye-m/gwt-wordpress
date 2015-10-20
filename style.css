@@ -569,5 +569,5 @@ body.contrast #accessibility-widget ul li a#accessibility-fontsize span {
     width: 100%;
     display: none;
     cursor: hand;
-    z-index: 101;
+    /*z-index: 101;*/
 }
